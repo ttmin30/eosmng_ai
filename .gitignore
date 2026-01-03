@@ -1,6 +1,11 @@
 .env
 src/
+test/~$assets.xlsx
 test/assets.xlsx
+assets.xlsx
 test/eosapitest5.py
 main.py
 venv_eosai
+
+data/
+test/
